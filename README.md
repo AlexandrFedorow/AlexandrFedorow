@@ -6,11 +6,6 @@
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things
 
-### Connect with me:
-
-[<img align="left" alt="AlexandrFedorow | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]]
-[<img align="left" alt="AlexandrFedorow | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]]
-
 <br />
 
 ### Languages and Tools:
@@ -22,5 +17,5 @@
 
 <br />
 <br />
-[instagram]: https://instagram.com/__av_mne__?igshid=skp5sihhxp84
-[vk]: https://vk.com/id224870622
+
+
