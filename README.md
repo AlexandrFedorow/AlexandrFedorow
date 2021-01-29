@@ -6,8 +6,6 @@
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png" />
